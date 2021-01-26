@@ -39,7 +39,6 @@ SSM学生在线选课系统的设计与实现
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1129/123610_e9feadc3_4865385.png "屏幕截图.png")
 
-工作室长期接单 招校园实力代理
-需要源码请加我一下联系方式
+
 联系Q：2762501186
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1119/003728_cd598bb9_4865385.jpeg "微信.jpg")
